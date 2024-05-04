@@ -4,8 +4,8 @@
 
 ## Basics
 
-- [If Statements](./basics/if_statements.rs)
-- [Loops](./basics/loops.rs)
+- [If Statements](./src/basics/if_statements.rs)
+- [Loops](./src/basics/loops.rs)
 
 ## Ownership
 
