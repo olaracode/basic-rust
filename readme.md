@@ -6,6 +6,9 @@
 
 - [If Statements](./src/basics/if_statements.rs)
 - [Loops](./src/basics/loops.rs)
+- [Strings](./src/basics/string.rs)
+- [Vectors](./src/basics/vectors.rs)
+- [Hashmaps](./src/basics/hash_maps.rs)
 
 ## Ownership
 
@@ -24,6 +27,13 @@
 - [Option Enum](./src/enums/option.rs)
 - [Enums and Match](./src/enums/match.rs)
 - [Option Enums and Match](./src/enums/match_options.rs)
+
+## Errors
+
+- [Panic](./src/errors/panic.rs)
+- [Result](./src/errors/error_match.rs)
+- [Expect|Unwrap](./src/errors/unwrap_expect.rs)
+- [Propagating Errors](./src/errors/error_propagation.rs)
 
 ## Practices
 
