@@ -35,6 +35,24 @@
 - [Expect|Unwrap](./src/errors/unwrap_expect.rs)
 - [Propagating Errors](./src/errors/error_propagation.rs)
 
+## Generics
+
+- [Functions](./src/generics/functions.rs)
+- [Structs](./src/generics/structs.rs)
+- [Example](./src/generics/example.rs)
+
+## Traits
+
+- [Intro](./src/traits/intro.rs)
+- [Trait Bounds](./src/traits/trait_bound.rs)
+
+## Lifetimes
+
+- [Intro](./src/lifetimes/intro.rs)
+- [Struct](./src/lifetimes/lifetime_struct.rs)
+- [Param Rules](./src/lifetimes/lifetime_param_rules.rs)
+- [Example](./src/lifetimes/example.rs)
+
 ## Practices
 
 - [Fibonacci Sequence](./src/excersises/fib.rs)
